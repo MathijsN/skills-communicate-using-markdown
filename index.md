@@ -4,3 +4,6 @@
 ```javascript
 const hello = "Hello, world";
 ```
+- [ ] complete this course
+- [ ] complete google digital marketing course
+- [ ] go gym
